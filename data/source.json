@@ -1,0 +1,3685 @@
+{
+  "schedule": [
+    {
+      "region": "r0",
+      "period": 0,
+      "assigned": 0,
+      "sequence": 0,
+      "probability": 0.5,
+      "randomization_set": "r0-set-0",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 0,
+      "event_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 1,
+      "assigned": 0,
+      "sequence": 0,
+      "probability": 0.5,
+      "randomization_set": "r0-set-0",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 1,
+      "event_at": "2026-09-01T00:30:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 2,
+      "assigned": 0,
+      "sequence": 0,
+      "probability": 0.5,
+      "randomization_set": "r0-set-0",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 2,
+      "event_at": "2026-09-01T01:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 3,
+      "assigned": 0,
+      "sequence": 0,
+      "probability": 0.5,
+      "randomization_set": "r0-set-0",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 3,
+      "event_at": "2026-09-01T01:30:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 4,
+      "assigned": 0,
+      "sequence": 0,
+      "probability": 0.5,
+      "randomization_set": "r0-set-0",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 4,
+      "event_at": "2026-09-01T02:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 5,
+      "assigned": 0,
+      "sequence": 0,
+      "probability": 0.5,
+      "randomization_set": "r0-set-0",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 5,
+      "event_at": "2026-09-01T02:30:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 6,
+      "assigned": 0,
+      "sequence": 0,
+      "probability": 0.5,
+      "randomization_set": "r0-set-0",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 6,
+      "event_at": "2026-09-01T03:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 7,
+      "assigned": 0,
+      "sequence": 0,
+      "probability": 0.5,
+      "randomization_set": "r0-set-0",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 7,
+      "event_at": "2026-09-01T03:30:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 8,
+      "assigned": 1,
+      "sequence": 1,
+      "probability": 0.5,
+      "randomization_set": "r1-set-1",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 0,
+      "event_at": "2026-09-01T04:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 9,
+      "assigned": 1,
+      "sequence": 1,
+      "probability": 0.5,
+      "randomization_set": "r1-set-1",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 1,
+      "event_at": "2026-09-01T04:30:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 10,
+      "assigned": 1,
+      "sequence": 1,
+      "probability": 0.5,
+      "randomization_set": "r1-set-1",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 2,
+      "event_at": "2026-09-01T05:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 11,
+      "assigned": 1,
+      "sequence": 1,
+      "probability": 0.5,
+      "randomization_set": "r1-set-1",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 3,
+      "event_at": "2026-09-01T05:30:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 12,
+      "assigned": 1,
+      "sequence": 1,
+      "probability": 0.5,
+      "randomization_set": "r1-set-1",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 4,
+      "event_at": "2026-09-01T06:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 13,
+      "assigned": 1,
+      "sequence": 1,
+      "probability": 0.5,
+      "randomization_set": "r1-set-1",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 5,
+      "event_at": "2026-09-01T06:30:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 14,
+      "assigned": 1,
+      "sequence": 1,
+      "probability": 0.5,
+      "randomization_set": "r1-set-1",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 6,
+      "event_at": "2026-09-01T07:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 15,
+      "assigned": 1,
+      "sequence": 1,
+      "probability": 0.5,
+      "randomization_set": "r1-set-1",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 7,
+      "event_at": "2026-09-01T07:30:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 16,
+      "assigned": 0,
+      "sequence": 2,
+      "probability": 0.5,
+      "randomization_set": "r2-set-2",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 0,
+      "event_at": "2026-09-01T08:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 17,
+      "assigned": 0,
+      "sequence": 2,
+      "probability": 0.5,
+      "randomization_set": "r2-set-2",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 1,
+      "event_at": "2026-09-01T08:30:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 18,
+      "assigned": 0,
+      "sequence": 2,
+      "probability": 0.5,
+      "randomization_set": "r2-set-2",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 2,
+      "event_at": "2026-09-01T09:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 19,
+      "assigned": 0,
+      "sequence": 2,
+      "probability": 0.5,
+      "randomization_set": "r2-set-2",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 3,
+      "event_at": "2026-09-01T09:30:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 20,
+      "assigned": 0,
+      "sequence": 2,
+      "probability": 0.5,
+      "randomization_set": "r2-set-2",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 4,
+      "event_at": "2026-09-01T10:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 21,
+      "assigned": 0,
+      "sequence": 2,
+      "probability": 0.5,
+      "randomization_set": "r2-set-2",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 5,
+      "event_at": "2026-09-01T10:30:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 22,
+      "assigned": 0,
+      "sequence": 2,
+      "probability": 0.5,
+      "randomization_set": "r2-set-2",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 6,
+      "event_at": "2026-09-01T11:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 23,
+      "assigned": 0,
+      "sequence": 2,
+      "probability": 0.5,
+      "randomization_set": "r2-set-2",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 7,
+      "event_at": "2026-09-01T11:30:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 24,
+      "assigned": 1,
+      "sequence": 3,
+      "probability": 0.5,
+      "randomization_set": "r0-set-3",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 0,
+      "event_at": "2026-09-01T12:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 25,
+      "assigned": 1,
+      "sequence": 3,
+      "probability": 0.5,
+      "randomization_set": "r0-set-3",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 1,
+      "event_at": "2026-09-01T12:30:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 26,
+      "assigned": 1,
+      "sequence": 3,
+      "probability": 0.5,
+      "randomization_set": "r0-set-3",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 2,
+      "event_at": "2026-09-01T13:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 27,
+      "assigned": 1,
+      "sequence": 3,
+      "probability": 0.5,
+      "randomization_set": "r0-set-3",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 3,
+      "event_at": "2026-09-01T13:30:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 28,
+      "assigned": 1,
+      "sequence": 3,
+      "probability": 0.5,
+      "randomization_set": "r0-set-3",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 4,
+      "event_at": "2026-09-01T14:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 29,
+      "assigned": 1,
+      "sequence": 3,
+      "probability": 0.5,
+      "randomization_set": "r0-set-3",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 5,
+      "event_at": "2026-09-01T14:30:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 30,
+      "assigned": 1,
+      "sequence": 3,
+      "probability": 0.5,
+      "randomization_set": "r0-set-3",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 6,
+      "event_at": "2026-09-01T15:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 31,
+      "assigned": 1,
+      "sequence": 3,
+      "probability": 0.5,
+      "randomization_set": "r0-set-3",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 7,
+      "event_at": "2026-09-01T15:30:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 32,
+      "assigned": 0,
+      "sequence": 4,
+      "probability": 0.5,
+      "randomization_set": "r1-set-4",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 0,
+      "event_at": "2026-09-01T16:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 33,
+      "assigned": 0,
+      "sequence": 4,
+      "probability": 0.5,
+      "randomization_set": "r1-set-4",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 1,
+      "event_at": "2026-09-01T16:30:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 34,
+      "assigned": 0,
+      "sequence": 4,
+      "probability": 0.5,
+      "randomization_set": "r1-set-4",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 2,
+      "event_at": "2026-09-01T17:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 35,
+      "assigned": 0,
+      "sequence": 4,
+      "probability": 0.5,
+      "randomization_set": "r1-set-4",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 3,
+      "event_at": "2026-09-01T17:30:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 36,
+      "assigned": 0,
+      "sequence": 4,
+      "probability": 0.5,
+      "randomization_set": "r1-set-4",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 4,
+      "event_at": "2026-09-01T18:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 37,
+      "assigned": 0,
+      "sequence": 4,
+      "probability": 0.5,
+      "randomization_set": "r1-set-4",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 5,
+      "event_at": "2026-09-01T18:30:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 38,
+      "assigned": 0,
+      "sequence": 4,
+      "probability": 0.5,
+      "randomization_set": "r1-set-4",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 6,
+      "event_at": "2026-09-01T19:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 39,
+      "assigned": 0,
+      "sequence": 4,
+      "probability": 0.5,
+      "randomization_set": "r1-set-4",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 7,
+      "event_at": "2026-09-01T19:30:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 40,
+      "assigned": 1,
+      "sequence": 5,
+      "probability": 0.5,
+      "randomization_set": "r2-set-5",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 0,
+      "event_at": "2026-09-01T20:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 41,
+      "assigned": 1,
+      "sequence": 5,
+      "probability": 0.5,
+      "randomization_set": "r2-set-5",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 1,
+      "event_at": "2026-09-01T20:30:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 42,
+      "assigned": 1,
+      "sequence": 5,
+      "probability": 0.5,
+      "randomization_set": "r2-set-5",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 2,
+      "event_at": "2026-09-01T21:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 43,
+      "assigned": 1,
+      "sequence": 5,
+      "probability": 0.5,
+      "randomization_set": "r2-set-5",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 3,
+      "event_at": "2026-09-01T21:30:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 44,
+      "assigned": 1,
+      "sequence": 5,
+      "probability": 0.5,
+      "randomization_set": "r2-set-5",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 4,
+      "event_at": "2026-09-01T22:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 45,
+      "assigned": 1,
+      "sequence": 5,
+      "probability": 0.5,
+      "randomization_set": "r2-set-5",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 5,
+      "event_at": "2026-09-01T22:30:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 46,
+      "assigned": 1,
+      "sequence": 5,
+      "probability": 0.5,
+      "randomization_set": "r2-set-5",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 6,
+      "event_at": "2026-09-01T23:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 47,
+      "assigned": 1,
+      "sequence": 5,
+      "probability": 0.5,
+      "randomization_set": "r2-set-5",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 7,
+      "event_at": "2026-09-01T23:30:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 48,
+      "assigned": 0,
+      "sequence": 6,
+      "probability": 0.5,
+      "randomization_set": "r0-set-6",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 0,
+      "event_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 49,
+      "assigned": 0,
+      "sequence": 6,
+      "probability": 0.5,
+      "randomization_set": "r0-set-6",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 1,
+      "event_at": "2026-09-02T00:30:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 50,
+      "assigned": 0,
+      "sequence": 6,
+      "probability": 0.5,
+      "randomization_set": "r0-set-6",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 2,
+      "event_at": "2026-09-02T01:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 51,
+      "assigned": 0,
+      "sequence": 6,
+      "probability": 0.5,
+      "randomization_set": "r0-set-6",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 3,
+      "event_at": "2026-09-02T01:30:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 52,
+      "assigned": 0,
+      "sequence": 6,
+      "probability": 0.5,
+      "randomization_set": "r0-set-6",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 4,
+      "event_at": "2026-09-02T02:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 53,
+      "assigned": 0,
+      "sequence": 6,
+      "probability": 0.5,
+      "randomization_set": "r0-set-6",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 5,
+      "event_at": "2026-09-02T02:30:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 54,
+      "assigned": 0,
+      "sequence": 6,
+      "probability": 0.5,
+      "randomization_set": "r0-set-6",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 6,
+      "event_at": "2026-09-02T03:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 55,
+      "assigned": 0,
+      "sequence": 6,
+      "probability": 0.5,
+      "randomization_set": "r0-set-6",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 7,
+      "event_at": "2026-09-02T03:30:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 56,
+      "assigned": 1,
+      "sequence": 7,
+      "probability": 0.5,
+      "randomization_set": "r1-set-7",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 0,
+      "event_at": "2026-09-02T04:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 57,
+      "assigned": 1,
+      "sequence": 7,
+      "probability": 0.5,
+      "randomization_set": "r1-set-7",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 1,
+      "event_at": "2026-09-02T04:30:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 58,
+      "assigned": 1,
+      "sequence": 7,
+      "probability": 0.5,
+      "randomization_set": "r1-set-7",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 2,
+      "event_at": "2026-09-02T05:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 59,
+      "assigned": 1,
+      "sequence": 7,
+      "probability": 0.5,
+      "randomization_set": "r1-set-7",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 3,
+      "event_at": "2026-09-02T05:30:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 60,
+      "assigned": 1,
+      "sequence": 7,
+      "probability": 0.5,
+      "randomization_set": "r1-set-7",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 4,
+      "event_at": "2026-09-02T06:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 61,
+      "assigned": 1,
+      "sequence": 7,
+      "probability": 0.5,
+      "randomization_set": "r1-set-7",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 5,
+      "event_at": "2026-09-02T06:30:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 62,
+      "assigned": 1,
+      "sequence": 7,
+      "probability": 0.5,
+      "randomization_set": "r1-set-7",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 6,
+      "event_at": "2026-09-02T07:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 63,
+      "assigned": 1,
+      "sequence": 7,
+      "probability": 0.5,
+      "randomization_set": "r1-set-7",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 7,
+      "event_at": "2026-09-02T07:30:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 64,
+      "assigned": 0,
+      "sequence": 8,
+      "probability": 0.5,
+      "randomization_set": "r2-set-8",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 0,
+      "event_at": "2026-09-02T08:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 65,
+      "assigned": 0,
+      "sequence": 8,
+      "probability": 0.5,
+      "randomization_set": "r2-set-8",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 1,
+      "event_at": "2026-09-02T08:30:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 66,
+      "assigned": 0,
+      "sequence": 8,
+      "probability": 0.5,
+      "randomization_set": "r2-set-8",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 2,
+      "event_at": "2026-09-02T09:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 67,
+      "assigned": 0,
+      "sequence": 8,
+      "probability": 0.5,
+      "randomization_set": "r2-set-8",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 3,
+      "event_at": "2026-09-02T09:30:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 68,
+      "assigned": 0,
+      "sequence": 8,
+      "probability": 0.5,
+      "randomization_set": "r2-set-8",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 4,
+      "event_at": "2026-09-02T10:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 69,
+      "assigned": 0,
+      "sequence": 8,
+      "probability": 0.5,
+      "randomization_set": "r2-set-8",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 5,
+      "event_at": "2026-09-02T10:30:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 70,
+      "assigned": 0,
+      "sequence": 8,
+      "probability": 0.5,
+      "randomization_set": "r2-set-8",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 6,
+      "event_at": "2026-09-02T11:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 71,
+      "assigned": 0,
+      "sequence": 8,
+      "probability": 0.5,
+      "randomization_set": "r2-set-8",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 7,
+      "event_at": "2026-09-02T11:30:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 72,
+      "assigned": 1,
+      "sequence": 9,
+      "probability": 0.5,
+      "randomization_set": "r0-set-9",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 0,
+      "event_at": "2026-09-02T12:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 73,
+      "assigned": 1,
+      "sequence": 9,
+      "probability": 0.5,
+      "randomization_set": "r0-set-9",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 1,
+      "event_at": "2026-09-02T12:30:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 74,
+      "assigned": 1,
+      "sequence": 9,
+      "probability": 0.5,
+      "randomization_set": "r0-set-9",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 2,
+      "event_at": "2026-09-02T13:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 75,
+      "assigned": 1,
+      "sequence": 9,
+      "probability": 0.5,
+      "randomization_set": "r0-set-9",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 3,
+      "event_at": "2026-09-02T13:30:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 76,
+      "assigned": 1,
+      "sequence": 9,
+      "probability": 0.5,
+      "randomization_set": "r0-set-9",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 4,
+      "event_at": "2026-09-02T14:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 77,
+      "assigned": 1,
+      "sequence": 9,
+      "probability": 0.5,
+      "randomization_set": "r0-set-9",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 5,
+      "event_at": "2026-09-02T14:30:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 78,
+      "assigned": 1,
+      "sequence": 9,
+      "probability": 0.5,
+      "randomization_set": "r0-set-9",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 6,
+      "event_at": "2026-09-02T15:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 79,
+      "assigned": 1,
+      "sequence": 9,
+      "probability": 0.5,
+      "randomization_set": "r0-set-9",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 7,
+      "event_at": "2026-09-02T15:30:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 80,
+      "assigned": 0,
+      "sequence": 10,
+      "probability": 0.5,
+      "randomization_set": "r1-set-10",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 0,
+      "event_at": "2026-09-02T16:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 81,
+      "assigned": 0,
+      "sequence": 10,
+      "probability": 0.5,
+      "randomization_set": "r1-set-10",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 1,
+      "event_at": "2026-09-02T16:30:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 82,
+      "assigned": 0,
+      "sequence": 10,
+      "probability": 0.5,
+      "randomization_set": "r1-set-10",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 2,
+      "event_at": "2026-09-02T17:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 83,
+      "assigned": 0,
+      "sequence": 10,
+      "probability": 0.5,
+      "randomization_set": "r1-set-10",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 3,
+      "event_at": "2026-09-02T17:30:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 84,
+      "assigned": 0,
+      "sequence": 10,
+      "probability": 0.5,
+      "randomization_set": "r1-set-10",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 4,
+      "event_at": "2026-09-02T18:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 85,
+      "assigned": 0,
+      "sequence": 10,
+      "probability": 0.5,
+      "randomization_set": "r1-set-10",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 5,
+      "event_at": "2026-09-02T18:30:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 86,
+      "assigned": 0,
+      "sequence": 10,
+      "probability": 0.5,
+      "randomization_set": "r1-set-10",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 6,
+      "event_at": "2026-09-02T19:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 87,
+      "assigned": 0,
+      "sequence": 10,
+      "probability": 0.5,
+      "randomization_set": "r1-set-10",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 7,
+      "event_at": "2026-09-02T19:30:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 88,
+      "assigned": 1,
+      "sequence": 11,
+      "probability": 0.5,
+      "randomization_set": "r2-set-11",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 0,
+      "event_at": "2026-09-02T20:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 89,
+      "assigned": 1,
+      "sequence": 11,
+      "probability": 0.5,
+      "randomization_set": "r2-set-11",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 1,
+      "event_at": "2026-09-02T20:30:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 90,
+      "assigned": 1,
+      "sequence": 11,
+      "probability": 0.5,
+      "randomization_set": "r2-set-11",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 2,
+      "event_at": "2026-09-02T21:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 91,
+      "assigned": 1,
+      "sequence": 11,
+      "probability": 0.5,
+      "randomization_set": "r2-set-11",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 3,
+      "event_at": "2026-09-02T21:30:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 92,
+      "assigned": 1,
+      "sequence": 11,
+      "probability": 0.5,
+      "randomization_set": "r2-set-11",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 4,
+      "event_at": "2026-09-02T22:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 93,
+      "assigned": 1,
+      "sequence": 11,
+      "probability": 0.5,
+      "randomization_set": "r2-set-11",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 5,
+      "event_at": "2026-09-02T22:30:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 94,
+      "assigned": 1,
+      "sequence": 11,
+      "probability": 0.5,
+      "randomization_set": "r2-set-11",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 6,
+      "event_at": "2026-09-02T23:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 95,
+      "assigned": 1,
+      "sequence": 11,
+      "probability": 0.5,
+      "randomization_set": "r2-set-11",
+      "received_at": "2026-09-01T00:00:00Z",
+      "block_offset": 7,
+      "event_at": "2026-09-02T23:30:00Z"
+    }
+  ],
+  "exposures": [
+    {
+      "exposure_id": "e1",
+      "region": "r0",
+      "event_period": 1,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-01T00:30:01Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e2",
+      "region": "r0",
+      "event_period": 2,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-01T01:00:02Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e3",
+      "region": "r0",
+      "event_period": 3,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-01T01:30:03Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e4",
+      "region": "r0",
+      "event_period": 4,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-01T02:00:04Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e5",
+      "region": "r0",
+      "event_period": 5,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-01T02:30:05Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e6",
+      "region": "r0",
+      "event_period": 6,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-01T03:00:06Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e7",
+      "region": "r0",
+      "event_period": 7,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-01T03:30:07Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e8",
+      "region": "r1",
+      "event_period": 8,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-01T04:00:08Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e9",
+      "region": "r1",
+      "event_period": 9,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-01T04:30:09Z",
+      "coupon_claimed": true
+    },
+    {
+      "exposure_id": "e10",
+      "region": "r1",
+      "event_period": 10,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-01T05:00:10Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e11",
+      "region": "r1",
+      "event_period": 11,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-01T05:30:11Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e12",
+      "region": "r1",
+      "event_period": 12,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-01T06:00:12Z",
+      "coupon_claimed": true
+    },
+    {
+      "exposure_id": "e14",
+      "region": "r1",
+      "event_period": 14,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-01T07:00:14Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e15",
+      "region": "r1",
+      "event_period": 15,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-01T07:30:15Z",
+      "coupon_claimed": true
+    },
+    {
+      "exposure_id": "e16",
+      "region": "r2",
+      "event_period": 16,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-01T08:00:16Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e17",
+      "region": "r2",
+      "event_period": 17,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-01T08:30:17Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e18",
+      "region": "r2",
+      "event_period": 18,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-01T09:00:18Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e19",
+      "region": "r2",
+      "event_period": 19,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-01T09:30:19Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e20",
+      "region": "r2",
+      "event_period": 20,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-01T10:00:20Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e21",
+      "region": "r2",
+      "event_period": 21,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-01T10:30:21Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e22",
+      "region": "r2",
+      "event_period": 22,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-01T11:00:22Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e23",
+      "region": "r2",
+      "event_period": 23,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-01T11:30:23Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e24",
+      "region": "r0",
+      "event_period": 24,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-01T12:00:24Z",
+      "coupon_claimed": true
+    },
+    {
+      "exposure_id": "e25",
+      "region": "r0",
+      "event_period": 25,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-01T12:30:25Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e27",
+      "region": "r0",
+      "event_period": 27,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-01T13:30:27Z",
+      "coupon_claimed": true
+    },
+    {
+      "exposure_id": "e28",
+      "region": "r0",
+      "event_period": 28,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-01T14:00:28Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e29",
+      "region": "r0",
+      "event_period": 29,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-01T14:30:29Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e30",
+      "region": "r0",
+      "event_period": 30,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-01T15:00:30Z",
+      "coupon_claimed": true
+    },
+    {
+      "exposure_id": "e31",
+      "region": "r0",
+      "event_period": 31,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-01T15:30:31Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e32",
+      "region": "r1",
+      "event_period": 32,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-01T16:00:32Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e33",
+      "region": "r1",
+      "event_period": 33,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-01T16:30:33Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e34",
+      "region": "r1",
+      "event_period": 34,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-01T17:00:34Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e35",
+      "region": "r1",
+      "event_period": 35,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-01T17:30:35Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e36",
+      "region": "r1",
+      "event_period": 36,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-01T18:00:36Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e37",
+      "region": "r1",
+      "event_period": 37,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-01T18:30:37Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e38",
+      "region": "r1",
+      "event_period": 38,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-01T19:00:38Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e40",
+      "region": "r2",
+      "event_period": 40,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-01T20:00:40Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e41",
+      "region": "r2",
+      "event_period": 41,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-01T20:30:41Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e42",
+      "region": "r2",
+      "event_period": 42,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-01T21:00:42Z",
+      "coupon_claimed": true
+    },
+    {
+      "exposure_id": "e43",
+      "region": "r2",
+      "event_period": 43,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-01T21:30:43Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e44",
+      "region": "r2",
+      "event_period": 44,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-01T22:00:44Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e45",
+      "region": "r2",
+      "event_period": 45,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-01T22:30:45Z",
+      "coupon_claimed": true
+    },
+    {
+      "exposure_id": "e46",
+      "region": "r2",
+      "event_period": 46,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-01T23:00:46Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e47",
+      "region": "r2",
+      "event_period": 47,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-01T23:30:47Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e48",
+      "region": "r0",
+      "event_period": 48,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-02T00:00:48Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e49",
+      "region": "r0",
+      "event_period": 49,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-02T00:30:49Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e50",
+      "region": "r0",
+      "event_period": 50,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-02T01:00:50Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e51",
+      "region": "r0",
+      "event_period": 51,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-02T01:30:51Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e53",
+      "region": "r0",
+      "event_period": 53,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-02T02:30:53Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e54",
+      "region": "r0",
+      "event_period": 54,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-02T03:00:54Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e55",
+      "region": "r0",
+      "event_period": 55,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-02T03:30:55Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e56",
+      "region": "r1",
+      "event_period": 56,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-02T04:00:56Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e57",
+      "region": "r1",
+      "event_period": 57,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-02T04:30:57Z",
+      "coupon_claimed": true
+    },
+    {
+      "exposure_id": "e58",
+      "region": "r1",
+      "event_period": 58,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-02T05:00:58Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e59",
+      "region": "r1",
+      "event_period": 59,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-02T05:30:59Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e60",
+      "region": "r1",
+      "event_period": 60,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-02T06:01:00Z",
+      "coupon_claimed": true
+    },
+    {
+      "exposure_id": "e61",
+      "region": "r1",
+      "event_period": 61,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-02T06:31:01Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e62",
+      "region": "r1",
+      "event_period": 62,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-02T07:01:02Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e63",
+      "region": "r1",
+      "event_period": 63,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-02T07:31:03Z",
+      "coupon_claimed": true
+    },
+    {
+      "exposure_id": "e64",
+      "region": "r2",
+      "event_period": 64,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-02T08:01:04Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e66",
+      "region": "r2",
+      "event_period": 66,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-02T09:01:06Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e67",
+      "region": "r2",
+      "event_period": 67,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-02T09:31:07Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e68",
+      "region": "r2",
+      "event_period": 68,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-02T10:01:08Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e69",
+      "region": "r2",
+      "event_period": 69,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-02T10:31:09Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e70",
+      "region": "r2",
+      "event_period": 70,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-02T11:01:10Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e71",
+      "region": "r2",
+      "event_period": 71,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-02T11:31:11Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e72",
+      "region": "r0",
+      "event_period": 72,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-02T12:01:12Z",
+      "coupon_claimed": true
+    },
+    {
+      "exposure_id": "e73",
+      "region": "r0",
+      "event_period": 73,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-02T12:31:13Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e74",
+      "region": "r0",
+      "event_period": 74,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-02T13:01:14Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e75",
+      "region": "r0",
+      "event_period": 75,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-02T13:31:15Z",
+      "coupon_claimed": true
+    },
+    {
+      "exposure_id": "e76",
+      "region": "r0",
+      "event_period": 76,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-02T14:01:16Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e77",
+      "region": "r0",
+      "event_period": 77,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-02T14:31:17Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e79",
+      "region": "r0",
+      "event_period": 79,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-02T15:31:19Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e80",
+      "region": "r1",
+      "event_period": 80,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-02T16:01:20Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e81",
+      "region": "r1",
+      "event_period": 81,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-02T16:31:21Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e82",
+      "region": "r1",
+      "event_period": 82,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-02T17:01:22Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e83",
+      "region": "r1",
+      "event_period": 83,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-02T17:31:23Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e84",
+      "region": "r1",
+      "event_period": 84,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-02T18:01:24Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e85",
+      "region": "r1",
+      "event_period": 85,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-02T18:31:25Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e86",
+      "region": "r1",
+      "event_period": 86,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-02T19:01:26Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e87",
+      "region": "r1",
+      "event_period": 87,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-02T19:31:27Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e88",
+      "region": "r2",
+      "event_period": 88,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-02T20:01:28Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e89",
+      "region": "r2",
+      "event_period": 89,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-02T20:31:29Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e90",
+      "region": "r2",
+      "event_period": 90,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-02T21:01:30Z",
+      "coupon_claimed": true
+    },
+    {
+      "exposure_id": "e92",
+      "region": "r2",
+      "event_period": 92,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-02T22:01:32Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e93",
+      "region": "r2",
+      "event_period": 93,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-02T22:31:33Z",
+      "coupon_claimed": true
+    },
+    {
+      "exposure_id": "e94",
+      "region": "r2",
+      "event_period": 94,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-02T23:01:34Z",
+      "coupon_claimed": false
+    },
+    {
+      "exposure_id": "e95",
+      "region": "r2",
+      "event_period": 95,
+      "received_at": "2026-09-01T01:00:00Z",
+      "event_at": "2026-09-02T23:31:35Z",
+      "coupon_claimed": false
+    }
+  ],
+  "orders": [
+    {
+      "order_id": "o0",
+      "region": "r0",
+      "exposure_period": 0,
+      "amount_cents": 777,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T00:45:00Z",
+      "exposure_id": null
+    },
+    {
+      "order_id": "o1",
+      "region": "r0",
+      "exposure_period": 1,
+      "amount_cents": 407,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T01:15:00Z",
+      "exposure_id": "e1"
+    },
+    {
+      "order_id": "o2",
+      "region": "r0",
+      "exposure_period": 2,
+      "amount_cents": 477,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T01:45:00Z",
+      "exposure_id": "e2"
+    },
+    {
+      "order_id": "o3",
+      "region": "r0",
+      "exposure_period": 3,
+      "amount_cents": 1195,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T02:15:00Z",
+      "exposure_id": "e3"
+    },
+    {
+      "order_id": "o4",
+      "region": "r0",
+      "exposure_period": 4,
+      "amount_cents": 815,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T02:45:00Z",
+      "exposure_id": "e4"
+    },
+    {
+      "order_id": "o5",
+      "region": "r0",
+      "exposure_period": 5,
+      "amount_cents": 1251,
+      "converted": 1,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T03:15:00Z",
+      "exposure_id": "e5"
+    },
+    {
+      "order_id": "o6",
+      "region": "r0",
+      "exposure_period": 6,
+      "amount_cents": 1353,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T03:45:00Z",
+      "exposure_id": "e6"
+    },
+    {
+      "order_id": "o7",
+      "region": "r0",
+      "exposure_period": 7,
+      "amount_cents": 1577,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T04:15:00Z",
+      "exposure_id": "e7"
+    },
+    {
+      "order_id": "o8",
+      "region": "r1",
+      "exposure_period": 8,
+      "amount_cents": 1258,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T04:45:00Z",
+      "exposure_id": "e8"
+    },
+    {
+      "order_id": "o9",
+      "region": "r1",
+      "exposure_period": 9,
+      "amount_cents": 1238,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T05:15:00Z",
+      "exposure_id": "e9"
+    },
+    {
+      "order_id": "o10",
+      "region": "r1",
+      "exposure_period": 10,
+      "amount_cents": 1485,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T05:45:00Z",
+      "exposure_id": "e10"
+    },
+    {
+      "order_id": "o11",
+      "region": "r1",
+      "exposure_period": 11,
+      "amount_cents": 813,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T06:15:00Z",
+      "exposure_id": "e11"
+    },
+    {
+      "order_id": "o12",
+      "region": "r1",
+      "exposure_period": 12,
+      "amount_cents": 1513,
+      "converted": 1,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T06:45:00Z",
+      "exposure_id": "e12"
+    },
+    {
+      "order_id": "o13",
+      "region": "r1",
+      "exposure_period": 13,
+      "amount_cents": 1150,
+      "converted": 1,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T07:15:00Z",
+      "exposure_id": null
+    },
+    {
+      "order_id": "o14",
+      "region": "r1",
+      "exposure_period": 14,
+      "amount_cents": 615,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T07:45:00Z",
+      "exposure_id": "e14"
+    },
+    {
+      "order_id": "o15",
+      "region": "r1",
+      "exposure_period": 15,
+      "amount_cents": 520,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T08:15:00Z",
+      "exposure_id": "e15"
+    },
+    {
+      "order_id": "o16",
+      "region": "r2",
+      "exposure_period": 16,
+      "amount_cents": 509,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T08:45:00Z",
+      "exposure_id": "e16"
+    },
+    {
+      "order_id": "o17",
+      "region": "r2",
+      "exposure_period": 17,
+      "amount_cents": 723,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T09:15:00Z",
+      "exposure_id": "e17"
+    },
+    {
+      "order_id": "o18",
+      "region": "r2",
+      "exposure_period": 18,
+      "amount_cents": 592,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T09:45:00Z",
+      "exposure_id": "e18"
+    },
+    {
+      "order_id": "o19",
+      "region": "r2",
+      "exposure_period": 19,
+      "amount_cents": 751,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T10:15:00Z",
+      "exposure_id": "e19"
+    },
+    {
+      "order_id": "o20",
+      "region": "r2",
+      "exposure_period": 20,
+      "amount_cents": 1215,
+      "converted": 1,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T10:45:00Z",
+      "exposure_id": "e20"
+    },
+    {
+      "order_id": "o21",
+      "region": "r2",
+      "exposure_period": 21,
+      "amount_cents": 451,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T11:15:00Z",
+      "exposure_id": "e21"
+    },
+    {
+      "order_id": "o22",
+      "region": "r2",
+      "exposure_period": 22,
+      "amount_cents": 1359,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T11:45:00Z",
+      "exposure_id": "e22"
+    },
+    {
+      "order_id": "o23",
+      "region": "r2",
+      "exposure_period": 23,
+      "amount_cents": 596,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T12:15:00Z",
+      "exposure_id": "e23"
+    },
+    {
+      "order_id": "o24",
+      "region": "r0",
+      "exposure_period": 24,
+      "amount_cents": 920,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T12:45:00Z",
+      "exposure_id": "e24"
+    },
+    {
+      "order_id": "o25",
+      "region": "r0",
+      "exposure_period": 25,
+      "amount_cents": 1485,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T13:15:00Z",
+      "exposure_id": "e25"
+    },
+    {
+      "order_id": "o26",
+      "region": "r0",
+      "exposure_period": 26,
+      "amount_cents": 492,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T13:45:00Z",
+      "exposure_id": null
+    },
+    {
+      "order_id": "o27",
+      "region": "r0",
+      "exposure_period": 27,
+      "amount_cents": 1168,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T14:15:00Z",
+      "exposure_id": "e27"
+    },
+    {
+      "order_id": "o28",
+      "region": "r0",
+      "exposure_period": 28,
+      "amount_cents": 831,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T14:45:00Z",
+      "exposure_id": "e28"
+    },
+    {
+      "order_id": "o29",
+      "region": "r0",
+      "exposure_period": 29,
+      "amount_cents": 964,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T15:15:00Z",
+      "exposure_id": "e29"
+    },
+    {
+      "order_id": "o30",
+      "region": "r0",
+      "exposure_period": 30,
+      "amount_cents": 858,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T15:45:00Z",
+      "exposure_id": "e30"
+    },
+    {
+      "order_id": "o31",
+      "region": "r0",
+      "exposure_period": 31,
+      "amount_cents": 695,
+      "converted": 1,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T16:15:00Z",
+      "exposure_id": "e31"
+    },
+    {
+      "order_id": "o32",
+      "region": "r1",
+      "exposure_period": 32,
+      "amount_cents": 1533,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T16:45:00Z",
+      "exposure_id": "e32"
+    },
+    {
+      "order_id": "o33",
+      "region": "r1",
+      "exposure_period": 33,
+      "amount_cents": 459,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T17:15:00Z",
+      "exposure_id": "e33"
+    },
+    {
+      "order_id": "o34",
+      "region": "r1",
+      "exposure_period": 34,
+      "amount_cents": 1525,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T17:45:00Z",
+      "exposure_id": "e34"
+    },
+    {
+      "order_id": "o35",
+      "region": "r1",
+      "exposure_period": 35,
+      "amount_cents": 670,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T18:15:00Z",
+      "exposure_id": "e35"
+    },
+    {
+      "order_id": "o36",
+      "region": "r1",
+      "exposure_period": 36,
+      "amount_cents": 896,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T18:45:00Z",
+      "exposure_id": "e36"
+    },
+    {
+      "order_id": "o37",
+      "region": "r1",
+      "exposure_period": 37,
+      "amount_cents": 1552,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T19:15:00Z",
+      "exposure_id": "e37"
+    },
+    {
+      "order_id": "o38",
+      "region": "r1",
+      "exposure_period": 38,
+      "amount_cents": 1207,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T19:45:00Z",
+      "exposure_id": "e38"
+    },
+    {
+      "order_id": "o39",
+      "region": "r1",
+      "exposure_period": 39,
+      "amount_cents": 1326,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T20:15:00Z",
+      "exposure_id": null
+    },
+    {
+      "order_id": "o40",
+      "region": "r2",
+      "exposure_period": 40,
+      "amount_cents": 970,
+      "converted": 1,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T20:45:00Z",
+      "exposure_id": "e40"
+    },
+    {
+      "order_id": "o41",
+      "region": "r2",
+      "exposure_period": 41,
+      "amount_cents": 825,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T21:15:00Z",
+      "exposure_id": "e41"
+    },
+    {
+      "order_id": "o42",
+      "region": "r2",
+      "exposure_period": 42,
+      "amount_cents": 1232,
+      "converted": 1,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T21:45:00Z",
+      "exposure_id": "e42"
+    },
+    {
+      "order_id": "o43",
+      "region": "r2",
+      "exposure_period": 43,
+      "amount_cents": 1480,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T22:15:00Z",
+      "exposure_id": "e43"
+    },
+    {
+      "order_id": "o44",
+      "region": "r2",
+      "exposure_period": 44,
+      "amount_cents": 1350,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T22:45:00Z",
+      "exposure_id": "e44"
+    },
+    {
+      "order_id": "o45",
+      "region": "r2",
+      "exposure_period": 45,
+      "amount_cents": 1410,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T23:15:00Z",
+      "exposure_id": "e45"
+    },
+    {
+      "order_id": "o46",
+      "region": "r2",
+      "exposure_period": 46,
+      "amount_cents": 1016,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-01T23:45:00Z",
+      "exposure_id": "e46"
+    },
+    {
+      "order_id": "o47",
+      "region": "r2",
+      "exposure_period": 47,
+      "amount_cents": 1336,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T00:15:00Z",
+      "exposure_id": "e47"
+    },
+    {
+      "order_id": "o48",
+      "region": "r0",
+      "exposure_period": 48,
+      "amount_cents": 1452,
+      "converted": 1,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T00:45:00Z",
+      "exposure_id": "e48"
+    },
+    {
+      "order_id": "o49",
+      "region": "r0",
+      "exposure_period": 49,
+      "amount_cents": 1380,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T01:15:00Z",
+      "exposure_id": "e49"
+    },
+    {
+      "order_id": "o50",
+      "region": "r0",
+      "exposure_period": 50,
+      "amount_cents": 1191,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T01:45:00Z",
+      "exposure_id": "e50"
+    },
+    {
+      "order_id": "o51",
+      "region": "r0",
+      "exposure_period": 51,
+      "amount_cents": 1402,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T02:15:00Z",
+      "exposure_id": "e51"
+    },
+    {
+      "order_id": "o52",
+      "region": "r0",
+      "exposure_period": 52,
+      "amount_cents": 910,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T02:45:00Z",
+      "exposure_id": null
+    },
+    {
+      "order_id": "o53",
+      "region": "r0",
+      "exposure_period": 53,
+      "amount_cents": 1171,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T03:15:00Z",
+      "exposure_id": "e53"
+    },
+    {
+      "order_id": "o54",
+      "region": "r0",
+      "exposure_period": 54,
+      "amount_cents": 725,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T03:45:00Z",
+      "exposure_id": "e54"
+    },
+    {
+      "order_id": "o55",
+      "region": "r0",
+      "exposure_period": 55,
+      "amount_cents": 916,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T04:15:00Z",
+      "exposure_id": "e55"
+    },
+    {
+      "order_id": "o56",
+      "region": "r1",
+      "exposure_period": 56,
+      "amount_cents": 1389,
+      "converted": 1,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T04:45:00Z",
+      "exposure_id": "e56"
+    },
+    {
+      "order_id": "o57",
+      "region": "r1",
+      "exposure_period": 57,
+      "amount_cents": 734,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T05:15:00Z",
+      "exposure_id": "e57"
+    },
+    {
+      "order_id": "o58",
+      "region": "r1",
+      "exposure_period": 58,
+      "amount_cents": 1163,
+      "converted": 1,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T05:45:00Z",
+      "exposure_id": "e58"
+    },
+    {
+      "order_id": "o59",
+      "region": "r1",
+      "exposure_period": 59,
+      "amount_cents": 1512,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T06:15:00Z",
+      "exposure_id": "e59"
+    },
+    {
+      "order_id": "o60",
+      "region": "r1",
+      "exposure_period": 60,
+      "amount_cents": 934,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T06:45:00Z",
+      "exposure_id": "e60"
+    },
+    {
+      "order_id": "o61",
+      "region": "r1",
+      "exposure_period": 61,
+      "amount_cents": 570,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T07:15:00Z",
+      "exposure_id": "e61"
+    },
+    {
+      "order_id": "o62",
+      "region": "r1",
+      "exposure_period": 62,
+      "amount_cents": 1516,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T07:45:00Z",
+      "exposure_id": "e62"
+    },
+    {
+      "order_id": "o63",
+      "region": "r1",
+      "exposure_period": 63,
+      "amount_cents": 1325,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T08:15:00Z",
+      "exposure_id": "e63"
+    },
+    {
+      "order_id": "o64",
+      "region": "r2",
+      "exposure_period": 64,
+      "amount_cents": 586,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T08:45:00Z",
+      "exposure_id": "e64"
+    },
+    {
+      "order_id": "o65",
+      "region": "r2",
+      "exposure_period": 65,
+      "amount_cents": 1470,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T09:15:00Z",
+      "exposure_id": null
+    },
+    {
+      "order_id": "o66",
+      "region": "r2",
+      "exposure_period": 66,
+      "amount_cents": 1577,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T09:45:00Z",
+      "exposure_id": "e66"
+    },
+    {
+      "order_id": "o67",
+      "region": "r2",
+      "exposure_period": 67,
+      "amount_cents": 1011,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T10:15:00Z",
+      "exposure_id": "e67"
+    },
+    {
+      "order_id": "o68",
+      "region": "r2",
+      "exposure_period": 68,
+      "amount_cents": 610,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T10:45:00Z",
+      "exposure_id": "e68"
+    },
+    {
+      "order_id": "o69",
+      "region": "r2",
+      "exposure_period": 69,
+      "amount_cents": 1194,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T11:15:00Z",
+      "exposure_id": "e69"
+    },
+    {
+      "order_id": "o70",
+      "region": "r2",
+      "exposure_period": 70,
+      "amount_cents": 1561,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T11:45:00Z",
+      "exposure_id": "e70"
+    },
+    {
+      "order_id": "o71",
+      "region": "r2",
+      "exposure_period": 71,
+      "amount_cents": 616,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T12:15:00Z",
+      "exposure_id": "e71"
+    },
+    {
+      "order_id": "o72",
+      "region": "r0",
+      "exposure_period": 72,
+      "amount_cents": 1224,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T12:45:00Z",
+      "exposure_id": "e72"
+    },
+    {
+      "order_id": "o73",
+      "region": "r0",
+      "exposure_period": 73,
+      "amount_cents": 558,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T13:15:00Z",
+      "exposure_id": "e73"
+    },
+    {
+      "order_id": "o74",
+      "region": "r0",
+      "exposure_period": 74,
+      "amount_cents": 989,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T13:45:00Z",
+      "exposure_id": "e74"
+    },
+    {
+      "order_id": "o75",
+      "region": "r0",
+      "exposure_period": 75,
+      "amount_cents": 570,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T14:15:00Z",
+      "exposure_id": "e75"
+    },
+    {
+      "order_id": "o76",
+      "region": "r0",
+      "exposure_period": 76,
+      "amount_cents": 1136,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T14:45:00Z",
+      "exposure_id": "e76"
+    },
+    {
+      "order_id": "o77",
+      "region": "r0",
+      "exposure_period": 77,
+      "amount_cents": 769,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T15:15:00Z",
+      "exposure_id": "e77"
+    },
+    {
+      "order_id": "o78",
+      "region": "r0",
+      "exposure_period": 78,
+      "amount_cents": 1035,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T15:45:00Z",
+      "exposure_id": null
+    },
+    {
+      "order_id": "o79",
+      "region": "r0",
+      "exposure_period": 79,
+      "amount_cents": 1529,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T16:15:00Z",
+      "exposure_id": "e79"
+    },
+    {
+      "order_id": "o80",
+      "region": "r1",
+      "exposure_period": 80,
+      "amount_cents": 581,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T16:45:00Z",
+      "exposure_id": "e80"
+    },
+    {
+      "order_id": "o81",
+      "region": "r1",
+      "exposure_period": 81,
+      "amount_cents": 1102,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T17:15:00Z",
+      "exposure_id": "e81"
+    },
+    {
+      "order_id": "o82",
+      "region": "r1",
+      "exposure_period": 82,
+      "amount_cents": 1252,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T17:45:00Z",
+      "exposure_id": "e82"
+    },
+    {
+      "order_id": "o83",
+      "region": "r1",
+      "exposure_period": 83,
+      "amount_cents": 1012,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T18:15:00Z",
+      "exposure_id": "e83"
+    },
+    {
+      "order_id": "o84",
+      "region": "r1",
+      "exposure_period": 84,
+      "amount_cents": 676,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T18:45:00Z",
+      "exposure_id": "e84"
+    },
+    {
+      "order_id": "o85",
+      "region": "r1",
+      "exposure_period": 85,
+      "amount_cents": 731,
+      "converted": 1,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T19:15:00Z",
+      "exposure_id": "e85"
+    },
+    {
+      "order_id": "o86",
+      "region": "r1",
+      "exposure_period": 86,
+      "amount_cents": 660,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T19:45:00Z",
+      "exposure_id": "e86"
+    },
+    {
+      "order_id": "o87",
+      "region": "r1",
+      "exposure_period": 87,
+      "amount_cents": 972,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T20:15:00Z",
+      "exposure_id": "e87"
+    },
+    {
+      "order_id": "o88",
+      "region": "r2",
+      "exposure_period": 88,
+      "amount_cents": 1259,
+      "converted": 1,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T20:45:00Z",
+      "exposure_id": "e88"
+    },
+    {
+      "order_id": "o89",
+      "region": "r2",
+      "exposure_period": 89,
+      "amount_cents": 1388,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T21:15:00Z",
+      "exposure_id": "e89"
+    },
+    {
+      "order_id": "o90",
+      "region": "r2",
+      "exposure_period": 90,
+      "amount_cents": 658,
+      "converted": 1,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T21:45:00Z",
+      "exposure_id": "e90"
+    },
+    {
+      "order_id": "o91",
+      "region": "r2",
+      "exposure_period": 91,
+      "amount_cents": 702,
+      "converted": 1,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T22:15:00Z",
+      "exposure_id": null
+    },
+    {
+      "order_id": "o92",
+      "region": "r2",
+      "exposure_period": 92,
+      "amount_cents": 903,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T22:45:00Z",
+      "exposure_id": "e92"
+    },
+    {
+      "order_id": "o93",
+      "region": "r2",
+      "exposure_period": 93,
+      "amount_cents": 479,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T23:15:00Z",
+      "exposure_id": "e93"
+    },
+    {
+      "order_id": "o94",
+      "region": "r2",
+      "exposure_period": 94,
+      "amount_cents": 1222,
+      "converted": 0,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-02T23:45:00Z",
+      "exposure_id": "e94"
+    },
+    {
+      "order_id": "o95",
+      "region": "r2",
+      "exposure_period": 95,
+      "amount_cents": 436,
+      "converted": 1,
+      "received_at": "2026-09-02T00:00:00Z",
+      "event_at": "2026-09-03T00:15:00Z",
+      "exposure_id": "e95"
+    }
+  ],
+  "closures": [
+    {
+      "region": "r0",
+      "period": 26,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 27,
+      "received_at": "2026-09-01T00:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 60,
+      "received_at": "2026-09-01T00:00:00Z"
+    }
+  ],
+  "designs": [
+    {
+      "randomization_set": "r0-set-0",
+      "sequence": 0,
+      "assignments": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "probability": 0.5
+    },
+    {
+      "randomization_set": "r0-set-0",
+      "sequence": "0-reversed",
+      "assignments": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "probability": 0.5
+    },
+    {
+      "randomization_set": "r1-set-1",
+      "sequence": 1,
+      "assignments": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "probability": 0.5
+    },
+    {
+      "randomization_set": "r1-set-1",
+      "sequence": "1-reversed",
+      "assignments": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "probability": 0.5
+    },
+    {
+      "randomization_set": "r1-set-10",
+      "sequence": 10,
+      "assignments": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "probability": 0.5
+    },
+    {
+      "randomization_set": "r1-set-10",
+      "sequence": "10-reversed",
+      "assignments": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "probability": 0.5
+    },
+    {
+      "randomization_set": "r2-set-11",
+      "sequence": 11,
+      "assignments": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "probability": 0.5
+    },
+    {
+      "randomization_set": "r2-set-11",
+      "sequence": "11-reversed",
+      "assignments": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "probability": 0.5
+    },
+    {
+      "randomization_set": "r2-set-2",
+      "sequence": 2,
+      "assignments": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "probability": 0.5
+    },
+    {
+      "randomization_set": "r2-set-2",
+      "sequence": "2-reversed",
+      "assignments": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "probability": 0.5
+    },
+    {
+      "randomization_set": "r0-set-3",
+      "sequence": 3,
+      "assignments": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "probability": 0.5
+    },
+    {
+      "randomization_set": "r0-set-3",
+      "sequence": "3-reversed",
+      "assignments": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "probability": 0.5
+    },
+    {
+      "randomization_set": "r1-set-4",
+      "sequence": 4,
+      "assignments": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "probability": 0.5
+    },
+    {
+      "randomization_set": "r1-set-4",
+      "sequence": "4-reversed",
+      "assignments": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "probability": 0.5
+    },
+    {
+      "randomization_set": "r2-set-5",
+      "sequence": 5,
+      "assignments": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "probability": 0.5
+    },
+    {
+      "randomization_set": "r2-set-5",
+      "sequence": "5-reversed",
+      "assignments": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "probability": 0.5
+    },
+    {
+      "randomization_set": "r0-set-6",
+      "sequence": 6,
+      "assignments": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "probability": 0.5
+    },
+    {
+      "randomization_set": "r0-set-6",
+      "sequence": "6-reversed",
+      "assignments": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "probability": 0.5
+    },
+    {
+      "randomization_set": "r1-set-7",
+      "sequence": 7,
+      "assignments": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "probability": 0.5
+    },
+    {
+      "randomization_set": "r1-set-7",
+      "sequence": "7-reversed",
+      "assignments": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "probability": 0.5
+    },
+    {
+      "randomization_set": "r2-set-8",
+      "sequence": 8,
+      "assignments": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "probability": 0.5
+    },
+    {
+      "randomization_set": "r2-set-8",
+      "sequence": "8-reversed",
+      "assignments": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "probability": 0.5
+    },
+    {
+      "randomization_set": "r0-set-9",
+      "sequence": 9,
+      "assignments": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "probability": 0.5
+    },
+    {
+      "randomization_set": "r0-set-9",
+      "sequence": "9-reversed",
+      "assignments": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "probability": 0.5
+    }
+  ],
+  "coverage": [
+    {
+      "region": "r0",
+      "period": 0,
+      "status": "missing",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 1,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 2,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 3,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 4,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 5,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 6,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 7,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 8,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 9,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 10,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 11,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 12,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 13,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 14,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 15,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 16,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 17,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 18,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 19,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 20,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 21,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 22,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 23,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 24,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 25,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 26,
+      "status": "missing",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 27,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 28,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 29,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 30,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 31,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 32,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 33,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 34,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 35,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 36,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 37,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 38,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 39,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 40,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 41,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 42,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 43,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 44,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 45,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 46,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 47,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 48,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 49,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 50,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 51,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 52,
+      "status": "missing",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 53,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 54,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 55,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 56,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 57,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 58,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 59,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 60,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 61,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 62,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 63,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 64,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 65,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 66,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 67,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 68,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 69,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 70,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 71,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 72,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 73,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 74,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 75,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 76,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 77,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 78,
+      "status": "missing",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r0",
+      "period": 79,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 80,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 81,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 82,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 83,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 84,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 85,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 86,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r1",
+      "period": 87,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 88,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 89,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 90,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 91,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 92,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 93,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 94,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    },
+    {
+      "region": "r2",
+      "period": 95,
+      "status": "observed",
+      "received_at": "2026-09-02T00:00:00Z"
+    }
+  ]
+}
