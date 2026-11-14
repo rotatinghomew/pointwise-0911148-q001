@@ -15,3 +15,8 @@ exposures 的 event_at 是曝光时间，received_at 是入库时间。订单以
 ## 快照样例字段补充
 
 以上字段说明对应当前初始快照中的本地合成记录；示例不存在的历史字段不视为隐藏接口要求。
+
+
+## 已有能力与字段边界
+
+designs 中每行是一个可抽取的完整八时段序列，概率在 randomization_set 内归一；schedule.block_offset 定位序列内位置。同一片区的 period 从零递增，event_at 为时段开始。coverage 的 observed 表示该片区时段已确认报齐，只有这种情况下无曝光行才是确认零曝光。exposures 的 coupon_claimed 表示实际领取；orders 通过 exposure_id 指向首次曝光，即使 event_at 已跨时段也不改变归属。当前核对只输出覆盖，不计算分配效果或不确定性。
