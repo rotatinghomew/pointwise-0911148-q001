@@ -1,12 +1,12 @@
 from collections import Counter
 from pathlib import Path
 
-from app.contracts import latest, load
-from app.repository import digest
+from app.contracts import load
+from app.effect import schedule_effect
 
 TABLES = ['schedule', 'designs', 'exposures', 'orders', 'closures', 'coverage']
 
-def exposure_coverage(snapshot, options):
+def exposure_coverage(snapshot, options=None, as_of=None):
     schedules = snapshot['schedule']
     observed = {(row['region'], row['event_period']) for row in snapshot['exposures']}
     expected = {(row['region'], row['period']) for row in schedules}
@@ -19,10 +19,16 @@ def exposure_coverage(snapshot, options):
             'assigned': dict(Counter(str(row['assigned']) for row in schedules)),
             'orders': len(snapshot['orders']), 'closures': len(snapshot['closures'])}
 
+
+def effect_analysis(snapshot, options=None, as_of=None):
+    return schedule_effect(snapshot, options, as_of)
+
+
 def action(repository, request):
     raise ValueError('尚未登记该业务的可写操作')
 
-OPERATIONS = {'exposure_coverage': exposure_coverage}
+OPERATIONS = {'exposure_coverage': exposure_coverage,
+              'schedule_effect': effect_analysis}
 
 
 def seed_dataset():
